@@ -1,0 +1,31 @@
+.cajaazul {
+    background-color: hsl(240, 100%, 50%);
+    width: 300px;
+    height: 250px;
+    display: inline-block;
+}
+
+.cajaroja {
+    background-color: hsl(0, 100%, 50%);
+    width: 300px;
+    height: 250px;
+    display: inline-block;
+}
+
+.cajaamarilla {
+    background-color: hsl(60, 100%, 50%);
+    width: 300px;
+    height: 250px;
+    display: inline-block;
+}
+
+.cajaverde {
+    background-color:hsl(120, 100%, 25%);
+    width: 900px;
+    height: 20px;
+    display: inline-block;
+}
+
+p.hecho{
+    background-color: hsl(195, 53%, 79%);
+}
